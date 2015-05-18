@@ -20,7 +20,7 @@ body {
 }
 
 header {
-	max-width: 300px;
+	max-width: 400px;
 	padding-left: 250px;
 	padding-right: 250px;
 	padding-top: 150px;
@@ -50,7 +50,7 @@ h3 {
 }
 
 .summary {
-	max-width: 300px;
+	max-width: 400px;
 	padding-left: 250px;
 	padding-right: 250px;
 	padding-top: 150px;
@@ -63,7 +63,7 @@ h3 {
 }
 
 .preamble {
-	max-width: 300px;
+	max-width: 400px;
 	padding: 250px;
 	border-left: 25px solid white;
 	border-right: 25px solid white;
@@ -74,7 +74,7 @@ h3 {
 }
 
 .explanation {
-	max-width: 300px;
+	max-width: 400px;
 	padding: 250px;
 	border-left: 25px solid white;
 	border-right: 25px solid white;
@@ -84,7 +84,7 @@ h3 {
 }
 
 .participation {
-	max-width: 300px;
+	max-width: 400px;
 	padding: 250px;
 	border-left: 25px solid white;
 	border-right: 25px solid white;
@@ -94,7 +94,7 @@ h3 {
 }
 
 .benefits {
-	max-width: 300px;
+	max-width: 400px;
 	padding: 250px;
 	border-left: 25px solid white;
 	border-right: 25px solid white;
@@ -104,7 +104,7 @@ h3 {
 }
 
 .requirements {
-	max-width: 300px;
+	max-width: 400px;
 	padding: 250px;
 	border-left: 25px solid white;
 	border-right: 25px solid white;
@@ -114,7 +114,7 @@ h3 {
 }
 
 footer {
-	max-width: 300px;
+	max-width: 400px;
 	max-height: 25px;
 	padding-left: 250px;
 	padding-right: 250px;
@@ -128,7 +128,7 @@ footer {
 }
 
 .sidebar {
-	max-width: 300px;
+	max-width: 400px;
 	padding-left: 250px;
 	padding-right: 250px;
 	padding-top: 175px;
